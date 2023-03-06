@@ -1,5 +1,7 @@
 ## RapidOCR Web Demo
 
+这个 demo 来自于 [RapidOCR](https://github.com/RapidAI/RapidOCR)，在其基础上进行完善，考虑安全、效率等功能。
+
 <p>
     <a href=""><img src="https://img.shields.io/badge/Python->=3.7,<=3.10-aff.svg"></a>
     <a href=""><img src="https://img.shields.io/badge/OS-Linux%2C%20Win%2C%20Mac-pink.svg"></a>
